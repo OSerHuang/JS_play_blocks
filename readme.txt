@@ -1,1 +1,1 @@
-Learn JS for fun.
+Learn JS and git for fun.
